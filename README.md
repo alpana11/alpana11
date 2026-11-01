@@ -1,60 +1,142 @@
+# ✨ Hello there! I'm Alpana
+
+### Learning, building, experimenting, and turning ideas into reality.
+
+<!-- Add your developer illustration/banner here -->
+
+I'm a Computer Science Engineering student who enjoys exploring technology, solving real-world problems, and bringing creative ideas to life.
+
+I love the intersection of coding, creativity, design, and AI. I'm always curious about new technologies, enjoy experimenting with different tools, and believe that every project is an opportunity to learn something new.
+
+---
+
 ## 💫 About Me
 
 ```python
-class Developer:
+class Alpana:
     name = "Alpana Pardeshi"
-    education = "B.Tech in Computer Science Engineering"
+    education = "Computer Science Engineering"
 
     interests = [
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "UI/UX Design",
-        "Creative Problem Solving",
-        "Exploring New Technologies",
+        "coding & problem solving",
+        "artificial intelligence",
+        "web development",
+        "creativity & design",
+        "building innovative projects",
+        "learning new technologies",
     ]
 
-    currently_exploring = [
-        "Data Science",
-        "Machine Learning",
-        "Full Stack Development",
-        "Cloud Technologies",
-        "Building Innovative Projects",
-    ]
-
-    mindset = "Always learning, always creating"
-    motto = "Think. Create. Innovate."
+    mindset = "Learn. Experiment. Grow."
+    motto = "Dream it. Code it. Build it."
 ```
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<p>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🎨 UI/UX & Design
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
+<p>
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-### ⚡ Tools & Technologies
+`UI Design` · `UX Research` · `Wireframing` · `Prototyping`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,gcp,mysql" />
+### ⚡ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ♻️ Parivartan
+**AI-Powered Waste Management Platform**
+
+An innovative platform connecting citizens, recyclers, and administrators through AI-powered waste classification, pickup scheduling, and sustainability rewards.
+
+`React Native` `TensorFlow Lite` `Firebase` `Gemini API`
+
+### 🏛️ CivicBridge
+**Government Innovation Platform**
+
+A GovTech platform connecting government departments with startups through AI-powered startup matching, proposal submission, expert evaluation, and pilot project management.
+
+`React` `JavaScript` `Tailwind CSS` `HTML` `CSS`
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Google Solution Challenge 2026** — Top 100
+- 🏆 **DIPEX 2026** — Finalist
+- 🏆 **Central India Hackathon 3.0** — Top 100
+- 🏆 **Jaipur Cybrathon** — Finalist
+- 🏆 **India Innovates 2026** — Finalist
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>♡ Keep creating. Keep learning. Keep growing.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
