@@ -18,7 +18,7 @@ I love the intersection of coding, creativity, design, and AI. I'm always curiou
 
 ```python
 class Alpana:
-    name = "Alpana Pardeshi"
+    name = "Alpana Pardesi"
     education = "Computer Science Engineering"
 
     interests = [
