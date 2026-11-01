@@ -3,7 +3,9 @@
 ### Learning, building, experimenting, and turning ideas into reality.
 
 <p align="center">
-  <img src="assets/developer-banner.png" width="100%" alt="Alpana's Developer Banner"/>
+  <img src="Cozy%20Neon%20Developer%20Workspace.png"
+       width="100%"
+       alt="Alpana's Developer Banner"/>
 </p>
 
 I'm a Computer Science Engineering student who enjoys exploring technology, solving real-world problems, and bringing creative ideas to life.
